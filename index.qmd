@@ -1,0 +1,12 @@
+---
+title: "Physics 2 Review"
+format: html
+---
+
+Welcome to my Physics 2 review site! This is a study resource for electricity and magnetism.
+
+-   📘 Concepts and formulas
+-   🧮 Worked examples
+-   🔗 Useful video and web links
+
+## Use the navigation bar to explore specific topics!

@@ -1,0 +1,22 @@
+---
+title: "Electric Fields"
+format: html
+---
+
+## Coulomb’s Law
+
+The electric force between two point charges is:
+
+$$
+F = k_e \frac{|q_1||q_2|}{r^2}
+$$
+
+## Electric Field from a Point Charge
+
+$$
+E = \frac{F}{q} = k_e \frac{|q|}{r^2}
+$$
+
+## Example Problem
+
+Two charges of ( +3,\mu\text{C} ) and ( -2,\mu\text{C} ) are placed 0.5 m apart. What is the electric field halfway between them?
