@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "rc-circuits.html",
+    "href": "rc-circuits.html",
+    "title": "RC Circuits",
+    "section": "",
+    "text": "\\[\nq(t) = Q_{\\text{max}} \\left(1 - e^{-t/RC}\\right)\n\\]"
+  },
+  {
+    "objectID": "rc-circuits.html#charging-a-capacitor",
+    "href": "rc-circuits.html#charging-a-capacitor",
+    "title": "RC Circuits",
+    "section": "",
+    "text": "\\[\nq(t) = Q_{\\text{max}} \\left(1 - e^{-t/RC}\\right)\n\\]"
+  },
+  {
+    "objectID": "rc-circuits.html#discharging-a-capacitor",
+    "href": "rc-circuits.html#discharging-a-capacitor",
+    "title": "RC Circuits",
+    "section": "Discharging a Capacitor",
+    "text": "Discharging a Capacitor\n\\[\nq(t) = Q_{\\text{max}} e^{-t/RC}\n\\]"
+  },
+  {
+    "objectID": "rc-circuits.html#time-constant",
+    "href": "rc-circuits.html#time-constant",
+    "title": "RC Circuits",
+    "section": "Time Constant",
+    "text": "Time Constant\n\\[\n\\tau = RC\n\\]\nThis is the time it takes for the capacitor to reach ~63% of full charge."
+  },
+  {
+    "objectID": "electric-fields.html",
+    "href": "electric-fields.html",
+    "title": "Electric Fields",
+    "section": "",
+    "text": "The electric force between two point charges is:\n\\[\nF = k_e \\frac{|q_1||q_2|}{r^2}\n\\]"
+  },
+  {
+    "objectID": "electric-fields.html#coulombs-law",
+    "href": "electric-fields.html#coulombs-law",
+    "title": "Electric Fields",
+    "section": "",
+    "text": "The electric force between two point charges is:\n\\[\nF = k_e \\frac{|q_1||q_2|}{r^2}\n\\]"
+  },
+  {
+    "objectID": "electric-fields.html#electric-field-from-a-point-charge",
+    "href": "electric-fields.html#electric-field-from-a-point-charge",
+    "title": "Electric Fields",
+    "section": "Electric Field from a Point Charge",
+    "text": "Electric Field from a Point Charge\n\\[\nE = \\frac{F}{q} = k_e \\frac{|q|}{r^2}\n\\]"
+  },
+  {
+    "objectID": "electric-fields.html#example-problem",
+    "href": "electric-fields.html#example-problem",
+    "title": "Electric Fields",
+    "section": "Example Problem",
+    "text": "Example Problem\nTwo charges of ( +3, ) and ( -2, ) are placed 0.5 m apart. What is the electric field halfway between them?"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Physics 2 Review",
+    "section": "",
+    "text": "Welcome to my Physics 2 review site! This is a study resource for electricity and magnetism."
+  },
+  {
+    "objectID": "index.html#use-the-navigation-bar-to-explore-specific-topics",
+    "href": "index.html#use-the-navigation-bar-to-explore-specific-topics",
+    "title": "Physics 2 Review",
+    "section": "Use the navigation bar to explore specific topics!",
+    "text": "Use the navigation bar to explore specific topics!"
+  }
+]
