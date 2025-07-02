@@ -6,9 +6,12 @@ website:
   title: "physics2-notes"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "Electric Fields"
+        href: electric-fields.qmd
+      - text: "Resistor Circuits"
+        href: rc-circuits.qmd
 
 format:
   html:
