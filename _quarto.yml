@@ -3,15 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "physics2-notes"
+  #title: "PHY 121/131 Notes"
+  favicon: siteFavicon.png
   navbar:
+    background: light
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Electric Fields"
-        href: electric-fields.qmd
-      - text: "Resistor Circuits"
-        href: rc-circuits.qmd
+      # - text: "PHY 131"
+      #   menu:
+      #   - text: "Electric Fields"
+      #     href: 23_fields.qmd
+      #   - text: "Gauss's Law"
+      #     href: 24_gauss.qmd
+      #   - text: "Electric Potential"
+      #     href: 25_potential.qmd
+      #   - text: "Capacitance and Dielectrics"
+      #     href: 26_capacitance.qmd
+      #   - text: "Current and Resistance"
+      #     href: 27_resistance.qmd
+      #   - text: "Direct-Current Circuits"
+      #     href: 28_DC.qmd
+      - text: "Resources"
+        href: resources.qmd
+
 
 format:
   html:

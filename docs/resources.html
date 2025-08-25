@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>RC Circuits</title>
+<title>Additional Resources</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,35 +68,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -118,7 +89,7 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resources.html"> 
+    <a class="nav-link active" href="./resources.html" aria-current="page"> 
 <span class="menu-text">Resources</span></a>
   </li>  
 </ul>
@@ -137,9 +108,8 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#charging-a-capacitor" id="toc-charging-a-capacitor" class="nav-link active" data-scroll-target="#charging-a-capacitor">Charging a Capacitor</a></li>
-  <li><a href="#discharging-a-capacitor" id="toc-discharging-a-capacitor" class="nav-link" data-scroll-target="#discharging-a-capacitor">Discharging a Capacitor</a></li>
-  <li><a href="#time-constant" id="toc-time-constant" class="nav-link" data-scroll-target="#time-constant">Time Constant</a></li>
+  <li><a href="#video-content" id="toc-video-content" class="nav-link active" data-scroll-target="#video-content">Video Content</a></li>
+  <li><a href="#website-content" id="toc-website-content" class="nav-link" data-scroll-target="#website-content">Website Content</a></li>
   </ul>
 </nav>
     </div>
@@ -148,7 +118,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">RC Circuits</h1>
+<h1 class="title">Additional Resources</h1>
 </div>
 
 
@@ -165,24 +135,52 @@ window.Quarto = {
 </header>
 
 
-<section id="charging-a-capacitor" class="level2">
-<h2 class="anchored" data-anchor-id="charging-a-capacitor">Charging a Capacitor</h2>
-<p><span class="math display">\[
-q(t) = Q_{\text{max}} \left(1 - e^{-t/RC}\right)
-\]</span></p>
+<section id="video-content" class="level2">
+<h2 class="anchored" data-anchor-id="video-content">Video Content</h2>
+<p>The following videos come from Dr.&nbsp;Mike Young, Professor of Physics at Santa Barbara City College. These lectures utilize the 7th edition of Serway’s Physics for Scientists and Engineers, which bests align with the content covered in PHY 121 and PHY 131. Since each video is roughly two hours, I recommend watching the videos in chunks over the span of each week (preferably before the material is covered).</p>
+<ul>
+<li><strong>Physics 1: Mechanics</strong> - <a href="https://www.youtube.com/playlist?list=PLpMn6V7JuggHkn1Jlt0104uNPmpnLFl-G">SBCC Physics 121 Spring 2015</a>
+<ul>
+<li>Covers Chapters 1-14 for PHY 121</li>
+</ul></li>
+<li><strong>Physics 2: Electricity and Magnetism</strong> - <a href="https://www.youtube.com/playlist?list=PLpMn6V7JuggHTQfh0aBM5OD4RObeyndsP">SBCC Physics 122 Fall 2013</a>
+<ul>
+<li>Covers Chapters 23-34 for PHY 131</li>
+</ul></li>
+<li><strong>Physics 3: Waves, Thermodynamics, Light, and Modern Physics</strong> - <a href="https://www.youtube.com/playlist?list=PLpMn6V7JuggFnfsb8RMxrwGugD7APF6d9">SBCC Physics 123 Spring 2014</a>
+<ul>
+<li>Videos 1-4 cover Chapters 15, 16, and 17 for PHY 121</li>
+<li>Videos 16-22 cover Chapters 35, 36, and 37 for PHY 131</li>
+</ul></li>
+</ul>
+<p>For more digestible videos, I have found these helpful to review for exams. Since these videos may use a different textbook, the order and notation of the material may slightly vary from what is shown in class.</p>
+<ul>
+<li><strong>Physics 1: Khan Academy India</strong> - <a href="https://www.khanacademy.org/science/in-in-class11th-physics">Class 11 Physics</a></li>
+<li><strong>Physics 2: Khan Academy India</strong> - <a href="https://www.khanacademy.org/science/in-in-class-12th-physics-india">Class 12 Physics</a></li>
+<li><strong>General Physics: Organic Chemistry Tutor</strong> - <a href="https://www.video-tutor.net/physics.html">Physics Lessons By Chapter</a>
+<ul>
+<li>Chapters 1-13 cover the concepts for PHY 121</li>
+<li>Chapters 17-28 cover the concepts for PHY 131</li>
+</ul></li>
+<li><strong>General Physics: Flipping Physics</strong>
+<ul>
+<li><a href="https://www.flippingphysics.com/ap-physics-c.html">AP Physics C: Mechanics</a> covers Chapters 1-15 for PHY 121</li>
+<li><a href="https://www.flippingphysics.com/ap-physics-c-em.html">AP Physics C: Electricity and Magnetism</a> covers Chapters 23-34 for PHY 131</li>
+</ul></li>
+<li><strong>General Physics: San Diego State University</strong> - <a href="https://www.youtube.com/@yoprofmatt/playlists">Physics with Professor Matt Anderson</a>
+<ul>
+<li>Modules 1-15 cover the concepts for PHY 121</li>
+<li>Modules 16-27 cover the concepts for PHY 131</li>
+</ul></li>
+</ul>
 </section>
-<section id="discharging-a-capacitor" class="level2">
-<h2 class="anchored" data-anchor-id="discharging-a-capacitor">Discharging a Capacitor</h2>
-<p><span class="math display">\[
-q(t) = Q_{\text{max}} e^{-t/RC}
-\]</span></p>
-</section>
-<section id="time-constant" class="level2">
-<h2 class="anchored" data-anchor-id="time-constant">Time Constant</h2>
-<p><span class="math display">\[
-\tau = RC
-\]</span></p>
-<p>This is the time it takes for the capacitor to reach ~63% of full charge.</p>
+<section id="website-content" class="level2">
+<h2 class="anchored" data-anchor-id="website-content">Website Content</h2>
+<ul>
+<li><strong>For all levels of physics</strong> - <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/index.html">HyperPhysics</a></li>
+<li><strong>Lists of various simulations</strong> - <a href="https://physics.bu.edu/~duffy/HTML5/">Boston University Arts &amp; Sciences</a></li>
+<li><strong>The Physics Classroom</strong> - <a href="https://www.physicsclassroom.com/class">Physics Tutorial</a></li>
+</ul>
 
 
 </section>

@@ -1,12 +1,19 @@
 ---
-title: "Physics 2 Review"
+title: "University Physics I/II Review"
 format: html
 ---
 
-Welcome to my Physics 2 review site! This is a study resource for electricity and magnetism.
+Welcome! The purpose of this site is offer a brief overview of the material covered for the following courses at Arizona Western College:
 
--   📘 Concepts and formulas
--   🧮 Worked examples
--   🔗 Useful video and web links
+* **PHY 121: University Physics I** [(Syllabus)](https://www.azwestern.edu/sites/default/files/documents/syllabi/phy-121-7082.pdf)
+  + *Introduction to mechanics. Analysis of the interactions between a system and its environment to determine changes in the system's position, velocity, momentum, and mechanical energy. Application of Newton's laws and conservation laws to the behavior of physical systems.*
+* **PHY 131: University Physics II** [(Syllabus)](https://www.azwestern.edu/sites/default/files/documents/syllabi/phy-131-6989.pdf)
+  + *Introduction to electricity and magnetism. Application of the laws of electricity and magnetism to the behavior of physical systems.* 
 
-## Use the navigation bar to explore specific topics!
+Both classes use the 9th Edition of *Physics for Scientists and Engineers with Modern Physics* by Serway and Jewett. All homework problems are assigned from this textbook. 
+
+* PHY 121 covers Chapters 1-17 from *Physics and Measurements* to *Sound Waves*
+* PHY 131 covers Chapters 23-37 from *Electric Fields* to *Wave Optics*
+* If time permits, PHY 131 may briefly cover part of the material from Chapter 18 on *Standing Waves* and Chapter 42 on *Atomic Physics* 
+
+Feel free to check out a recommended list of resources in the ***Resources*** tab. Best of luck!

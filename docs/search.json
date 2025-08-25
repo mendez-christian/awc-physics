@@ -1,5 +1,75 @@
 [
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Additional Resources",
+    "section": "",
+    "text": "The following videos come from Dr. Mike Young, Professor of Physics at Santa Barbara City College. These lectures utilize the 7th edition of Serway’s Physics for Scientists and Engineers, which bests align with the content covered in PHY 121 and PHY 131. Since each video is roughly two hours, I recommend watching the videos in chunks over the span of each week (preferably before the material is covered).\n\nPhysics 1: Mechanics - SBCC Physics 121 Spring 2015\n\nCovers Chapters 1-14 for PHY 121\n\nPhysics 2: Electricity and Magnetism - SBCC Physics 122 Fall 2013\n\nCovers Chapters 23-34 for PHY 131\n\nPhysics 3: Waves, Thermodynamics, Light, and Modern Physics - SBCC Physics 123 Spring 2014\n\nVideos 1-4 cover Chapters 15, 16, and 17 for PHY 121\nVideos 16-22 cover Chapters 35, 36, and 37 for PHY 131\n\n\nFor more digestible videos, I have found these helpful to review for exams. Since these videos may use a different textbook, the order and notation of the material may slightly vary from what is shown in class.\n\nPhysics 1: Khan Academy India - Class 11 Physics\nPhysics 2: Khan Academy India - Class 12 Physics\nGeneral Physics: Organic Chemistry Tutor - Physics Lessons By Chapter\n\nChapters 1-13 cover the concepts for PHY 121\nChapters 17-28 cover the concepts for PHY 131\n\nGeneral Physics: Flipping Physics\n\nAP Physics C: Mechanics covers Chapters 1-15 for PHY 121\nAP Physics C: Electricity and Magnetism covers Chapters 23-34 for PHY 131\n\nGeneral Physics: San Diego State University - Physics with Professor Matt Anderson\n\nModules 1-15 cover the concepts for PHY 121\nModules 16-27 cover the concepts for PHY 131"
+  },
+  {
+    "objectID": "resources.html#video-content",
+    "href": "resources.html#video-content",
+    "title": "Additional Resources",
+    "section": "",
+    "text": "The following videos come from Dr. Mike Young, Professor of Physics at Santa Barbara City College. These lectures utilize the 7th edition of Serway’s Physics for Scientists and Engineers, which bests align with the content covered in PHY 121 and PHY 131. Since each video is roughly two hours, I recommend watching the videos in chunks over the span of each week (preferably before the material is covered).\n\nPhysics 1: Mechanics - SBCC Physics 121 Spring 2015\n\nCovers Chapters 1-14 for PHY 121\n\nPhysics 2: Electricity and Magnetism - SBCC Physics 122 Fall 2013\n\nCovers Chapters 23-34 for PHY 131\n\nPhysics 3: Waves, Thermodynamics, Light, and Modern Physics - SBCC Physics 123 Spring 2014\n\nVideos 1-4 cover Chapters 15, 16, and 17 for PHY 121\nVideos 16-22 cover Chapters 35, 36, and 37 for PHY 131\n\n\nFor more digestible videos, I have found these helpful to review for exams. Since these videos may use a different textbook, the order and notation of the material may slightly vary from what is shown in class.\n\nPhysics 1: Khan Academy India - Class 11 Physics\nPhysics 2: Khan Academy India - Class 12 Physics\nGeneral Physics: Organic Chemistry Tutor - Physics Lessons By Chapter\n\nChapters 1-13 cover the concepts for PHY 121\nChapters 17-28 cover the concepts for PHY 131\n\nGeneral Physics: Flipping Physics\n\nAP Physics C: Mechanics covers Chapters 1-15 for PHY 121\nAP Physics C: Electricity and Magnetism covers Chapters 23-34 for PHY 131\n\nGeneral Physics: San Diego State University - Physics with Professor Matt Anderson\n\nModules 1-15 cover the concepts for PHY 121\nModules 16-27 cover the concepts for PHY 131"
+  },
+  {
+    "objectID": "resources.html#website-content",
+    "href": "resources.html#website-content",
+    "title": "Additional Resources",
+    "section": "Website Content",
+    "text": "Website Content\n\nFor all levels of physics - HyperPhysics\nLists of various simulations - Boston University Arts & Sciences\nThe Physics Classroom - Physics Tutorial"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "University Physics I/II Review",
+    "section": "",
+    "text": "Welcome! The purpose of this site is offer a brief overview of the material covered for the following courses at Arizona Western College:\n\nPHY 121: University Physics I (Syllabus)\n\nIntroduction to mechanics. Analysis of the interactions between a system and its environment to determine changes in the system’s position, velocity, momentum, and mechanical energy. Application of Newton’s laws and conservation laws to the behavior of physical systems.\n\nPHY 131: University Physics II (Syllabus)\n\nIntroduction to electricity and magnetism. Application of the laws of electricity and magnetism to the behavior of physical systems.\n\n\nBoth classes use the 9th Edition of Physics for Scientists and Engineers with Modern Physics by Serway and Jewett. All homework problems are assigned from this textbook.\n\nPHY 121 covers Chapters 1-17 from Physics and Measurements to Sound Waves\nPHY 131 covers Chapters 23-37 from Electric Fields to Wave Optics\nIf time permits, PHY 131 may briefly cover part of the material from Chapter 18 on Standing Waves and Chapter 42 on Atomic Physics\n\nFeel free to check out a recommended list of resources in the Resources tab. Best of luck!"
+  },
+  {
+    "objectID": "23_fields.html",
+    "href": "23_fields.html",
+    "title": "Electric Fields",
+    "section": "",
+    "text": "This first chapter covers three of six key quantities we will need to analyze how charges behave. These quantities are the electric charge, force, and field. We will discuss how they arise and relate to each other."
+  },
+  {
+    "objectID": "23_fields.html#electrical-charge",
+    "href": "23_fields.html#electrical-charge",
+    "title": "Electric Fields",
+    "section": "Electrical Charge",
+    "text": "Electrical Charge\nJust like color, density, mass, etc., charge is not a physical object, but rather a property of an object. We use charge to describe how objects interact in an electric and magnetic field.\n\n\n\n\n\n\nNew Unit: Coulomb\n\n\n\nThe SI unit for charge is the Coulomb [C].\n\n\nObjects can fall into three main categories:\n\nPositively charged objects have more protons than electrons\nNegatively charged objects have more electrons than protons\nNeutral objects have an equal number of protons and electrons\n\nWe often call protons (positively charged) and electrons (negatively charged) charge carriers, since freely moving electrons are responsible for charge transfer. Below are couple useful parameters for the proton, electron, and neutron:\n\n\n\nParticle\nCharge [C]\nMass [kg]\n\n\n\n\nProton\n\\[ 1.60 \\times 10^{-19} \\]\n\\[ 1.67 \\times 10^{-27} \\]\n\n\nElectron\n\\[ -1.60 \\times 10^{-19} \\]\n\\[ 9.11 \\times 10^{-31} \\]\n\n\nNeutron\n\\[ 0 \\]\n\\[ 1.67 \\times 10^{-27} \\]\n\n\n\n\n\n\n\n\n\nFundamental Observation\n\n\n\nOpposite charges attract and like charges repel."
+  },
+  {
+    "objectID": "23_fields.html#coulombs-law",
+    "href": "23_fields.html#coulombs-law",
+    "title": "Electric Fields",
+    "section": "Coulomb’s Law",
+    "text": "Coulomb’s Law\nThe electric force between two point charges is:\n\\[\nF = k_e \\frac{|q_1||q_2|}{r^2}\n\\]"
+  },
+  {
+    "objectID": "23_fields.html#electric-field-from-a-point-charge",
+    "href": "23_fields.html#electric-field-from-a-point-charge",
+    "title": "Electric Fields",
+    "section": "Electric Field from a Point Charge",
+    "text": "Electric Field from a Point Charge\n\\[\nE = \\frac{F}{q} = k_e \\frac{|q|}{r^2}\n\\]"
+  },
+  {
+    "objectID": "23_fields.html#example-problem",
+    "href": "23_fields.html#example-problem",
+    "title": "Electric Fields",
+    "section": "Example Problem",
+    "text": "Example Problem\nTwo charges of ( +3, ) and ( -2, ) are placed 0.5 m apart. What is the electric field halfway between them?"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "rc-circuits.html",
     "href": "rc-circuits.html",
     "title": "RC Circuits",
@@ -26,54 +96,5 @@
     "title": "RC Circuits",
     "section": "Time Constant",
     "text": "Time Constant\n\\[\n\\tau = RC\n\\]\nThis is the time it takes for the capacitor to reach ~63% of full charge."
-  },
-  {
-    "objectID": "electric-fields.html",
-    "href": "electric-fields.html",
-    "title": "Electric Fields",
-    "section": "",
-    "text": "The electric force between two point charges is:\n\\[\nF = k_e \\frac{|q_1||q_2|}{r^2}\n\\]"
-  },
-  {
-    "objectID": "electric-fields.html#coulombs-law",
-    "href": "electric-fields.html#coulombs-law",
-    "title": "Electric Fields",
-    "section": "",
-    "text": "The electric force between two point charges is:\n\\[\nF = k_e \\frac{|q_1||q_2|}{r^2}\n\\]"
-  },
-  {
-    "objectID": "electric-fields.html#electric-field-from-a-point-charge",
-    "href": "electric-fields.html#electric-field-from-a-point-charge",
-    "title": "Electric Fields",
-    "section": "Electric Field from a Point Charge",
-    "text": "Electric Field from a Point Charge\n\\[\nE = \\frac{F}{q} = k_e \\frac{|q|}{r^2}\n\\]"
-  },
-  {
-    "objectID": "electric-fields.html#example-problem",
-    "href": "electric-fields.html#example-problem",
-    "title": "Electric Fields",
-    "section": "Example Problem",
-    "text": "Example Problem\nTwo charges of ( +3, ) and ( -2, ) are placed 0.5 m apart. What is the electric field halfway between them?"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Physics 2 Review",
-    "section": "",
-    "text": "Welcome to my Physics 2 review site! This is a study resource for electricity and magnetism."
-  },
-  {
-    "objectID": "index.html#use-the-navigation-bar-to-explore-specific-topics",
-    "href": "index.html#use-the-navigation-bar-to-explore-specific-topics",
-    "title": "Physics 2 Review",
-    "section": "Use the navigation bar to explore specific topics!",
-    "text": "Use the navigation bar to explore specific topics!"
   }
 ]

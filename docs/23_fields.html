@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>RC Circuits</title>
+<title>Electric Fields</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -137,9 +137,10 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#charging-a-capacitor" id="toc-charging-a-capacitor" class="nav-link active" data-scroll-target="#charging-a-capacitor">Charging a Capacitor</a></li>
-  <li><a href="#discharging-a-capacitor" id="toc-discharging-a-capacitor" class="nav-link" data-scroll-target="#discharging-a-capacitor">Discharging a Capacitor</a></li>
-  <li><a href="#time-constant" id="toc-time-constant" class="nav-link" data-scroll-target="#time-constant">Time Constant</a></li>
+  <li><a href="#electrical-charge" id="toc-electrical-charge" class="nav-link active" data-scroll-target="#electrical-charge">Electrical Charge</a></li>
+  <li><a href="#coulombs-law" id="toc-coulombs-law" class="nav-link" data-scroll-target="#coulombs-law">Coulomb’s Law</a></li>
+  <li><a href="#electric-field-from-a-point-charge" id="toc-electric-field-from-a-point-charge" class="nav-link" data-scroll-target="#electric-field-from-a-point-charge">Electric Field from a Point Charge</a></li>
+  <li><a href="#example-problem" id="toc-example-problem" class="nav-link" data-scroll-target="#example-problem">Example Problem</a></li>
   </ul>
 </nav>
     </div>
@@ -148,7 +149,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">RC Circuits</h1>
+<h1 class="title">Electric Fields</h1>
 </div>
 
 
@@ -165,24 +166,86 @@ window.Quarto = {
 </header>
 
 
-<section id="charging-a-capacitor" class="level2">
-<h2 class="anchored" data-anchor-id="charging-a-capacitor">Charging a Capacitor</h2>
+<p>This first chapter covers three of six key quantities we will need to analyze how charges behave. These quantities are the electric charge, force, and field. We will discuss how they arise and relate to each other.</p>
+<section id="electrical-charge" class="level2">
+<h2 class="anchored" data-anchor-id="electrical-charge">Electrical Charge</h2>
+<p>Just like color, density, mass, etc., <em>charge</em> is not a physical object, but rather a property of an object. We use charge to describe how objects interact in an electric and magnetic field.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+New Unit: Coulomb
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The SI unit for charge is the <strong>Coulomb</strong> [C].</p>
+</div>
+</div>
+<p>Objects can fall into three main categories:</p>
+<ul>
+<li><p>Positively charged objects have more protons than electrons</p></li>
+<li><p>Negatively charged objects have more electrons than protons</p></li>
+<li><p>Neutral objects have an equal number of protons and electrons</p></li>
+</ul>
+<p>We often call protons (positively charged) and electrons (negatively charged) <em>charge carriers</em>, since freely moving electrons are responsible for charge transfer. Below are couple useful parameters for the proton, electron, and neutron:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: center;">Particle</th>
+<th style="text-align: center;">Charge [C]</th>
+<th style="text-align: center;">Mass [kg]</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Proton</td>
+<td style="text-align: center;"><span class="math display">\[ 1.60 \times 10^{-19} \]</span></td>
+<td style="text-align: center;"><span class="math display">\[ 1.67 \times 10^{-27} \]</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Electron</td>
+<td style="text-align: center;"><span class="math display">\[ -1.60 \times 10^{-19} \]</span></td>
+<td style="text-align: center;"><span class="math display">\[ 9.11 \times 10^{-31} \]</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">Neutron</td>
+<td style="text-align: center;"><span class="math display">\[ 0 \]</span></td>
+<td style="text-align: center;"><span class="math display">\[ 1.67 \times 10^{-27} \]</span></td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Fundamental Observation
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Opposite charges attract and like charges repel.</p>
+</div>
+</div>
+</section>
+<section id="coulombs-law" class="level2">
+<h2 class="anchored" data-anchor-id="coulombs-law">Coulomb’s Law</h2>
+<p>The electric force between two point charges is:</p>
 <p><span class="math display">\[
-q(t) = Q_{\text{max}} \left(1 - e^{-t/RC}\right)
+F = k_e \frac{|q_1||q_2|}{r^2}
 \]</span></p>
 </section>
-<section id="discharging-a-capacitor" class="level2">
-<h2 class="anchored" data-anchor-id="discharging-a-capacitor">Discharging a Capacitor</h2>
+<section id="electric-field-from-a-point-charge" class="level2">
+<h2 class="anchored" data-anchor-id="electric-field-from-a-point-charge">Electric Field from a Point Charge</h2>
 <p><span class="math display">\[
-q(t) = Q_{\text{max}} e^{-t/RC}
+E = \frac{F}{q} = k_e \frac{|q|}{r^2}
 \]</span></p>
 </section>
-<section id="time-constant" class="level2">
-<h2 class="anchored" data-anchor-id="time-constant">Time Constant</h2>
-<p><span class="math display">\[
-\tau = RC
-\]</span></p>
-<p>This is the time it takes for the capacitor to reach ~63% of full charge.</p>
+<section id="example-problem" class="level2">
+<h2 class="anchored" data-anchor-id="example-problem">Example Problem</h2>
+<p>Two charges of ( +3, ) and ( -2, ) are placed 0.5 m apart. What is the electric field halfway between them?</p>
 
 
 </section>

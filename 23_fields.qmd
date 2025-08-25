@@ -1,0 +1,56 @@
+---
+title: "Electric Fields"
+format: html
+---
+
+This first chapter covers three of six key quantities we will need to analyze how charges behave. These quantities are the electric charge, force, and field. We will discuss how they arise and relate to each other.
+
+## Electrical Charge
+
+Just like color, density, mass, etc., *charge* is not a physical object, but rather a property of an object. We use charge to describe how objects interact in an electric and magnetic field.
+
+::: callout-note
+## New Unit: Coulomb
+
+The SI unit for charge is the **Coulomb** \[C\].
+:::
+
+Objects can fall into three main categories:
+
+-   Positively charged objects have more protons than electrons
+
+-   Negatively charged objects have more electrons than protons
+
+-   Neutral objects have an equal number of protons and electrons
+
+We often call protons (positively charged) and electrons (negatively charged) *charge carriers*, since freely moving electrons are responsible for charge transfer. Below are couple useful parameters for the proton, electron, and neutron:
+
+| Particle |          Charge [C]         |          Mass [kg]         |
+|:--------:|:---------------------------:|:--------------------------:|
+| Proton   | $$ 1.60 \times 10^{-19} $$  | $$ 1.67 \times 10^{-27} $$ |
+| Electron | $$ -1.60 \times 10^{-19} $$ | $$ 9.11 \times 10^{-31} $$ |
+| Neutron  | $$ 0 $$                     | $$ 1.67 \times 10^{-27} $$ |
+
+::: callout-tip
+## Fundamental Observation
+
+Opposite charges attract and like charges repel.
+:::
+
+## Coulomb’s Law
+
+The electric force between two point charges is:
+
+$$
+F = k_e \frac{|q_1||q_2|}{r^2}
+$$
+
+## Electric Field from a Point Charge
+
+$$
+E = \frac{F}{q} = k_e \frac{|q|}{r^2}
+$$
+
+## Example Problem
+
+Two charges of ( +3,\mu\text{C} ) and ( -2,\mu\text{C} ) are placed 0.5 m apart. What is the electric field halfway between them?

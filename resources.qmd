@@ -1,0 +1,36 @@
+---
+title: "Additional Resources"
+format: html
+---
+
+## Video Content
+
+The following videos come from Dr. Mike Young, Professor of Physics at Santa Barbara City College. These lectures utilize the 7th edition of Serway's Physics for Scientists and Engineers, which bests align with the content covered in PHY 121 and PHY 131. Since each video is roughly two hours, I recommend watching the videos in chunks over the span of each week (preferably before the material is covered).
+
+-   **Physics 1: Mechanics** - [SBCC Physics 121 Spring 2015](https://www.youtube.com/playlist?list=PLpMn6V7JuggHkn1Jlt0104uNPmpnLFl-G)
+    -   Covers Chapters 1-14 for PHY 121
+-   **Physics 2: Electricity and Magnetism** - [SBCC Physics 122 Fall 2013](https://www.youtube.com/playlist?list=PLpMn6V7JuggHTQfh0aBM5OD4RObeyndsP)
+    -   Covers Chapters 23-34 for PHY 131
+-   **Physics 3: Waves, Thermodynamics, Light, and Modern Physics**  - [SBCC Physics 123 Spring 2014](https://www.youtube.com/playlist?list=PLpMn6V7JuggFnfsb8RMxrwGugD7APF6d9)
+    -   Videos 1-4 cover Chapters 15, 16, and 17 for PHY 121
+    -   Videos 16-22 cover Chapters 35, 36, and 37 for PHY 131
+
+For more digestible videos, I have found these helpful to review for exams. Since these videos may use a different textbook, the order and notation of the material may slightly vary from what is shown in class.
+
+-   **Physics 1: Khan Academy India** - [Class 11 Physics](https://www.khanacademy.org/science/in-in-class11th-physics)
+-   **Physics 2: Khan Academy India** - [Class 12 Physics](https://www.khanacademy.org/science/in-in-class-12th-physics-india)
+-   **General Physics: Organic Chemistry Tutor** - [Physics Lessons By Chapter](https://www.video-tutor.net/physics.html)
+    -   Chapters 1-13 cover the concepts for PHY 121
+    -   Chapters 17-28 cover the concepts for PHY 131
+-   **General Physics: Flipping Physics**
+    -   [AP Physics C: Mechanics](https://www.flippingphysics.com/ap-physics-c.html) covers Chapters 1-15 for PHY 121
+    -   [AP Physics C: Electricity and Magnetism](https://www.flippingphysics.com/ap-physics-c-em.html) covers Chapters 23-34 for PHY 131
+-   **General Physics: San Diego State University** - [Physics with Professor Matt Anderson](https://www.youtube.com/@yoprofmatt/playlists)
+    -   Modules 1-15 cover the concepts for PHY 121
+    -   Modules 16-27 cover the concepts for PHY 131
+
+## Website Content
+
+-   **For all levels of physics** - [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
+-   **Lists of various simulations** - [Boston University Arts & Sciences](https://physics.bu.edu/~duffy/HTML5/)
+-   **The Physics Classroom** - [Physics Tutorial](https://www.physicsclassroom.com/class)
